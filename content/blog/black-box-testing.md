@@ -25,4 +25,4 @@ architect to specify what the information hiding boundaries are.
   necessary fix, it also updated a hard-coded expected constant to instead be
   computed using the same algorithm as the original file, instead of
   preserving the constant as the test was originally written.  See also
-  [Preparatory Refactoring]({{< relref "preparatory-refactoring.md" >}})
+  [Preparatory Refactoring]({{< relref "preparatory-refactoring.md" >}}).
