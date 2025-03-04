@@ -25,7 +25,7 @@ Ideally, a model would be able to realize that "something bad" has happened,
 and ask the user for request.  Because this takes precious context, it may be
 better for this detection to happen via a separate watchdog LLM instead.
 
-# Examples
+## Examples
 
 - After having made some changes that changed random numbers sampling on a
   Monte Carlo simulation, I asked Claude Code to fix all of the tests, some of

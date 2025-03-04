@@ -18,7 +18,7 @@ state, even if they are available.  If state is absolutely necessary,
 continuously feeding the current state into the model could help improve
 coherence.  The RP community probably has quite a lot of lessons here.
 
-# Examples
+## Examples
 
 - A TypeScript project was divided into three subcomponents: common, backend
   and frontend.  Each component was its own NPM module.  Cursor run from the

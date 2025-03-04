@@ -19,7 +19,7 @@ loading files into the context, to avoid overfitting on internal
 implementation details that should be hidden.  It would be necessary for the
 architect to specify what the information hiding boundaries are.
 
-# Examples
+## Examples
 
 - I asked Sonnet 3.7 in Cursor to fix a failing test.  While it made the
   necessary fix, it also updated a hard-coded expected constant to instead be

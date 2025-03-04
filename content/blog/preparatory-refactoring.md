@@ -27,7 +27,7 @@ making code have explicit type annotations) can make this problem worse, since
 arguably the model was instructed to add annotations.  Accurately determining
 the span of code the LLM should edit could also help.
 
-# Examples
+## Examples
 
 - I instructed an LLM to fix an import error from local changes I made in a
   file, but after fixing the imports it also added type annotations to some
