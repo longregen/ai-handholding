@@ -15,11 +15,14 @@ title = "AI Blindspots"
 svg {
   display: block;
   margin: 0 auto;
+  max-width: 400px;
+  width: 100%;
+  height: auto;
 }
 </style>
 
 <!-- Inline SVG for the Eye of Providence -->
-<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
   <!-- Pyramid -->
   <polygon points="30,170 170,170 100,50" fill="none" stroke="var(--stroke-color)" stroke-width="2"/>
   <!-- Closed eye: a subtle curved eyelid -->
