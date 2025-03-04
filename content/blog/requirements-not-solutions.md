@@ -1,5 +1,5 @@
 +++
-title = "Requirements Not Solutions"
+title = "Requirements, not Solutions"
 date = "2025-03-03T22:45:39-05:00"
 tags = []
 +++
