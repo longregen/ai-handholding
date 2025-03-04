@@ -1,5 +1,5 @@
 <ul style="column-count: 2; -webkit-column-count: 2; -moz-column-count: 2;">
-  {{ range (.Site.RegularPages.ByDate.Reverse) }}
+  {{ range (.Site.RegularPages.ByDate) }}
     <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
   {{ end }}
 </ul>
