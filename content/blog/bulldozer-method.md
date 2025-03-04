@@ -12,7 +12,9 @@ AI coding is the epitome of brute force work: you can just brute force large
 refactoring problems if you are willing to spend enough tokens, or you can
 have the LLM build the workflow you will use to brute force the problem.  Look
 for opportunity in places where previously people had written off a problem as
-"too much work".
+"too much work".  Make sure you inspect what the LLM is actually doing though,
+because it will happily keep doing the same thing over and over, unlike a
+human who would get bored and look for a better way.
 
 ## Examples
 
