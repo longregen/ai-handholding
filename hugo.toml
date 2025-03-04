@@ -14,3 +14,7 @@ ignoreErrors = ["error-disable-taxonomy"]
   description = "Blindspots in LLMs I've noticed while AI coding. Sonnet family emphasis."
   title = "AI Blindspots"
   dateFormat = "2006-01-02"
+  hideMadeWithLine = true
+
+[markup.goldmark.renderer]
+  unsafe = true
