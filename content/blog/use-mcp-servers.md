@@ -28,6 +28,7 @@ Cursor is not reliably feeding this context to the model.
 
 ## Examples
 
-- When I ask Sonnet 3.7 to test a change to a TypeScript file, it would come
-  up with different variations of npm/vitest instead of consistently using the
-  command that the project documentation instructed to be used.
+- When I ask Sonnet 3.7 to typecheck a TypeScript project and fix errors, it
+  hallucinated the command `npm run typecheck`, which on this project did not
+  work.  Although you technically don't need an MCP to solve this, you need
+  some prompting for the model so it knows how perform this operation.
