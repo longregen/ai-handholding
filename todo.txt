@@ -1,4 +1,3 @@
-over eager ("think about" turns into "do")
 - i am going to try very hard to do this thing even though I don't have the
   tools
 live reloading = bad (best practices / the house style)
