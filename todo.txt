@@ -5,3 +5,8 @@ but you didn't tell me to use the tool!
 too eager to please - added extra logging when it's not needed
 
 doesn't want to delete code, likes making copies
+bc for you, but not for me - claude editing code to be BC so that tests don't fail
+
+
+house style prefers making new test files for functionality, rather than hewing to feature
+don't cover up errors in tests, fail fast
