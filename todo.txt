@@ -1,4 +1,3 @@
-live reloading = bad (best practices / the house style)
 escaping json into string
 but you didn't tell me to use the tool!
 
@@ -9,4 +8,4 @@ bc for you, but not for me - claude editing code to be BC so that tests don't fa
 
 
 house style prefers making new test files for functionality, rather than hewing to feature
-don't cover up errors in tests, fail fast
+don't cover up errors in tests, fail fast, esp tests
