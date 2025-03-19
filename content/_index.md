@@ -1,5 +1,5 @@
 +++
-title = "AI Blindspots"
+title = "AI Handholding"
 +++
 
 <!-- Define the CSS variable for stroke color -->
@@ -31,7 +31,7 @@ svg {
   <path d="M75,112 Q100,107 125,112" fill="none" stroke="var(--stroke-color)" stroke-width="1"/>
 </svg>
 
-Blindspots in LLMs I've noticed while AI coding. Sonnet family emphasis.  Maybe I will eventually suggest Cursor rules for these problems.
+Techniques for handholding when coding with LLMs and AI agents. Sonnet family emphasis. Inspired by [AI Blindspots](https://ezyang.github.io/ai-blindspots/)
 
 {{< recent-links >}}
 

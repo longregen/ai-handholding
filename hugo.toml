@@ -1,6 +1,6 @@
-baseURL = 'https://ezyang.github.io/ai-blindspots/'
+baseURL = 'https://longregen.github.io/ai-handholding/'
 languageCode = 'en-us'
-title = 'AI Blindspots'
+title = 'AI Handholding'
 theme = 'hugo-bearblog'
 
 enableRobotsTXT = true
@@ -11,8 +11,8 @@ ignoreErrors = ["error-disable-taxonomy"]
   tags = "/blog/:slug"
 
 [params]
-  description = "Blindspots in LLMs I've noticed while AI coding. Sonnet family emphasis."
-  title = "AI Blindspots"
+  description = "Handholding techniques used in LLMs I've noticed that help while AI coding. Sonnet family emphasis."
+  title = "AI Handholding"
   dateFormat = "2006-01-02"
   hideMadeWithLine = true
 
